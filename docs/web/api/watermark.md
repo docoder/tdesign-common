@@ -40,4 +40,4 @@ spline: data
 
 图片灰阶水印
 
-{{ graylevel }}
+{{ grayscale }}
